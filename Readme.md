@@ -1,37 +1,37 @@
 ## Checklist to building a Website / Web-App
 
-1.  > **What is all about your website(idea of that website) :**
-    >
-    > _**Example : landing page,ecommerce,webapp,blog website,streaming app,etc..**_
+> **What is all about your website(idea of that website) :**
+>
+> _**Example : landing page,ecommerce,webapp,blog website,streaming app,etc..**_
 
-2.  > **Information about that website :**
-    >
-    > _**Collect as many information/content for your website and make a document of that website.**_
-    >
-    > - What will my title will be.
-    > - What will be the text content of each page and post for my website.
-    > - What the media content i want like(images/logos/icons/maybe . video and audio files etc..).
+> **Information about that website :**
+>
+> _**Collect as many information/content for your website and make a document of that website.**_
+>
+> - What will my title will be.
+> - What will be the text content of each page and post for my website.
+> - What the media content i want like(images/logos/icons/maybe . video and audio files etc..).
 
-3.  > **How should your website look like(design) :**
-    >
-    > _**This is the crucial part of the the website is how you are going to present the content to the end user.**_ > **_for that:_**
-    >
-    > - Search for the website designs related to your website topic and type.
-    > - Make a rough layout of how each page should look like and each product or post will look like.
-    > - Use a design tool like figma/adobe xd if you want to take it a way ahead(this step is optional).
-    > - Choose a color theme and font for your website this changes the game of design for your website and make your website look cool!.
+> **How should your website look like(design) :**
+>
+> _**This is the crucial part of the the website is how you are going to present the content to the end user.**_ > **_for that:_**
+>
+> - Search for the website designs related to your website topic and type.
+> - Make a rough layout of how each page should look like and each product or post will look like.
+> - Use a design tool like figma/adobe xd if you want to take it a way ahead(this step is optional).
+> - Choose a color theme and font for your website this changes the game of design for your website and make your website look cool!.
 
-4.  > **Choosing the technology to work with :**
-    >
-    > - Choosing what technology to work with is also a very crucial part in development.
-    > - You can choose depending on the project or the client requirements and your skillset.
-    > - For personal project you can choose to work with whatever technology you want.
+> **Choosing the technology to work with :**
+>
+> - Choosing what technology to work with is also a very crucial part in development.
+> - You can choose depending on the project or the client requirements and your skillset.
+> - For personal project you can choose to work with whatever technology you want.
 
-    > **For example:**
-    >
-    > - Work with pure html/css/js may with some css and js libraries.
-    > - Or choose a js framework like react.
-    > - For a backend choose what server-side language you want/you know to work with.
+     **For example:**
+
+     - Work with pure html/css/js may with some css and js libraries.
+     - Or choose a js framework like react.
+     - For a backend choose what server-side language you want/you know to work with.
 
 Planning this in each project before ahead will save you lots and lots of time while you building and testing the Website/Web-app
 
